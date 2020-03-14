@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/rocketfy/static/js/main.04e69166.chunk.js",
+    "main.js.map": "/rocketfy/static/js/main.04e69166.chunk.js.map",
+    "runtime-main.js": "/rocketfy/static/js/runtime-main.4df99ee2.js",
+    "runtime-main.js.map": "/rocketfy/static/js/runtime-main.4df99ee2.js.map",
+    "static/js/2.6287d33f.chunk.js": "/rocketfy/static/js/2.6287d33f.chunk.js",
+    "static/js/2.6287d33f.chunk.js.map": "/rocketfy/static/js/2.6287d33f.chunk.js.map",
+    "index.html": "/rocketfy/index.html",
+    "precache-manifest.13f7ef3a0ac9953d8c76cf0bebb17b4c.js": "/rocketfy/precache-manifest.13f7ef3a0ac9953d8c76cf0bebb17b4c.js",
+    "service-worker.js": "/rocketfy/service-worker.js",
+    "static/js/2.6287d33f.chunk.js.LICENSE.txt": "/rocketfy/static/js/2.6287d33f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4df99ee2.js",
+    "static/js/2.6287d33f.chunk.js",
+    "static/js/main.04e69166.chunk.js"
+  ]
+}
